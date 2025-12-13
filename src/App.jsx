@@ -1,10 +1,12 @@
 import './App.css'
+import Footer from './componets/Footer'
+import Heading from './componets/Heading'
 
 function App() {
 
   return (
     <>
-      <h1 className="text-2xl text-amber-200 text-center">Aska Diliyan</h1>
+      <Heading/>
     </>
   )
 }
