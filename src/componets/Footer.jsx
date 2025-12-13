@@ -46,7 +46,6 @@ function Footer() {
           <section className="mt-8 md:mt-0 md:w-1/3">
             <p className="font-semibold mb-4">Our Support</p>
 
-            {/* ❗ PERBAIKAN UTAMA DI SINI */}
             <div className="flex flex-wrap items-center gap-6 md:flex-col md:items-start md:gap-4">
               <svg
                 width="81"
@@ -103,11 +102,9 @@ function Footer() {
             </div>
           </section>
 
-          {/* SUPPORT */}
           <section className="mt-8 md:mt-0 md:w-1/3">
             <p className="font-semibold mb-4">Follow us</p>
 
-            {/* ❗ PERBAIKAN UTAMA DI SINI */}
             <div className="flex md:flex-col gap-4">
 
 
