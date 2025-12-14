@@ -1,13 +1,14 @@
 import './App.css'
-import Footer from './componets/Footer'
-import Heading from './componets/Heading'
+import SignIn from './pages/SignIn'
+
 
 function App() {
 
   return (
     <>
-      <Heading/>
-      <Footer/>
+    <SignIn/>
+      {/* <Heading/>
+      <Footer/> */}
     </>
   )
 }
